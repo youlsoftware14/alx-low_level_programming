@@ -1,9 +1,8 @@
-#include "main.h";
-/**
- * main - prints putchar
+#include "main.h"
+/** main - prints putchar
  * Return: always 0
  */
-int main (void)
+int main(void)
 {
 _putchar('_');
 _putchar('p');
