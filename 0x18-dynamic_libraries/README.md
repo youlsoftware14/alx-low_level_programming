@@ -1,1 +1,1 @@
-0x18. C - Dynamic libraries
+ 0x09. C - Static libraries
